@@ -1,1 +1,5 @@
-Run git/dependencies.command to generate this file
+# Dependencies
+Ableton Live 11.0.12
+|Plugin|Manufacturer|
+|-|-|
+|||
